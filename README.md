@@ -1,6 +1,6 @@
 ### Olá, Eu sou Gabriel Fernandes 💻✌🏼️
 
-[![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielsilvafernandes1606@gmail.com)
+
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferndsgabriel/)
 [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://ferndsgabriel.vercel.app/)](ferndsgabriel.vercel.app/)
 
@@ -21,4 +21,9 @@
         <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React'/>
         <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React'/>
     </div>
+    <br>
+    <p>Gestão da Tecnologia da Informação - <strong>FATEC</strong> 👨‍🎓</p>
+    </br>
+    </br>
+    <i>"A simplicidade é o mais alto grau de sofisticação" <br>- Leonardo da Vinci</br></i>
 </div>
