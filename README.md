@@ -19,6 +19,8 @@
         <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='Tailwind'/>
         <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' alt='nextJS'/>
         <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
+        <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='Postgresql'/>
+        <img src='https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34' alt='Firebase'/>
     </div>
     <br>
     <p>Gestão da Tecnologia da Informação - <strong>FATEC</strong> 👨‍🎓</p>
