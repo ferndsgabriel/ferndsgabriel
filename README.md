@@ -21,6 +21,7 @@
         <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='Postgresql'/>
         <img src='https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34' alt='Firebase'/>
+        <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'/>
     </div>
     <br>
     <p>Gestão da Tecnologia da Informação - <strong>FATEC</strong> 👨‍🎓</p>
